@@ -22,6 +22,7 @@ I'm a Software Engineer Specializing on Back-End
 
 
 ## 🛠 Skills
+![banner](73f89c114b442fcae610e199c938c807.jpeg)
 
 Programming languages:
 + Java, JavaScript, Python, C/C++, C#
