@@ -1,10 +1,7 @@
 # Hi, I'm Sassi Hamdi! 👋
 
 
-## Screenshots
-
-![App Screenshot](istockphoto-636526232-1024x1024.jpg)
-
+![banner](istockphoto-636526232-1024x1024.jpg)
 
 
 
