@@ -19,7 +19,7 @@ I'm a Software Engineer Specializing on Back-End
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sassi-hamdi/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Hamdy077)
-[![FaceBook]([https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://icons8.com/icon/118497/facebook))]([https://www.facebook.com/profile.php?id=100078252016319])
+[![FaceBook](https://img.shields.io/badge/facebook-000?)](https://www.facebook.com/profile.php?id=100078252016319)
 
 
 ## 🛠 Skills
