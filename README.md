@@ -1,4 +1,4 @@
-# Hi, I'm <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sassi-hamdi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tn.linkedin.com/in/sassi-hamdi?trk=profile-badge">Sassi Hamdi</a></div>! 👋 
+# Hi, I'm Sassi Hamdi! 👋 
 
 ![banner](istockphoto-636526232-1024x1024.jpg)
 
