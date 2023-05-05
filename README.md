@@ -28,7 +28,13 @@ Programming languages:
 + Java, JavaScript, Python, C/C++, C#
 
 Web frameworks:
-+ SpringBoot, ASP.NET, Django, Node.js,
++ SpringBoot, Django, Node.js,
+
+DevOps skills:
++  Git, Jenkins, Docker, and Kubernetes.
+
+Database skills: 
+MySQL, PostgreSQL, or MongoDB
 
 Cloud computing:
 + AWS, Azure, Google Cloud, PaaS, SaaS, IaaS,
