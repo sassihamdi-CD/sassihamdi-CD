@@ -8,7 +8,7 @@
 I'm a Software Engineer Specializing on Back-End
 
  
-- 🌱 I’m currently learning low level programming
+- 🌱 I’m currently learning big complex system design
 - 👯 I’m looking to collaborate on back-end projects
 - 💬 Ask me about back-end engineering
 - 📫 How to reach me: hamdysassy7@gmail.com
