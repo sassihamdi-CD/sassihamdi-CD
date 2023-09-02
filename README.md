@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-I'm a Software Engineer Specializing on Back-End
+I'm a Software Engineer Specializing in Back-End
 
  
 - 🌱 I’m currently learning big complex system design
@@ -24,27 +24,9 @@ I'm a Software Engineer Specializing on Back-End
 ## 🛠 Skills
 ![banner](73f89c114b442fcae610e199c938c807.jpeg)
 
-Programming languages:
-+ Java, JavaScript, Python, C/C++, C#
-
-Web frameworks:
-+ SpringBoot, Django, Node.js,
-
-DevOps skills:
-+  Git, Jenkins, Docker, and Kubernetes.
-
-Database skills: 
-MySQL, PostgreSQL, or MongoDB
-
-Cloud computing:
-+ AWS, Azure, Google Cloud, PaaS, SaaS, IaaS,
-
-API design:
- + RESTful APIs
-
 ## Support
 
-For support, email Hamdysassy7@gmail.com or join me Linkdin.
+For support, email Hamdysassy7@gmail.com or join me on Linkedin.
 
 
               
