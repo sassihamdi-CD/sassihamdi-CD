@@ -10,6 +10,7 @@ I'm a Software Engineer Specializing in Back-End
  
 - 🌱 I’m currently learning big complex system design
 - 👯 I’m looking to collaborate on back-end projects
+- 📝 I regularly write articles on Medium https://medium.com/@hamdysassy7
 - 💬 Ask me about back-end engineering
 - 📫 How to reach me: hamdysassy7@gmail.com
 
