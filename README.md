@@ -64,13 +64,3 @@
 <img src="https://raw.githubusercontent.com/sassihamdi-CD/sassihamdi-CD/output/snake.svg" alt="Snake animation" />
 
 ###
-
-## 🛠 Skills
-![banner](73f89c114b442fcae610e199c938c807.jpeg)
-
-## Support
-
-For support, email Hamdysassy7@gmail.com or join me on Linkedin.
-
-
-              
